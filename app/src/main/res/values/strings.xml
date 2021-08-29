@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="author">Author</string>
+    <string name="description">Description</string>
+    <string name="content"><![CDATA[ <a href="$s">Content</a>]]></string>
+    <string name="transition_description">detail:description:%s</string>
+</resources>
